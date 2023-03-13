@@ -7,4 +7,8 @@ fiz uma alteração
 
 alterei de novo
 
-eita, alterei
+
+eita, alterei (mantive essa alteração)
+
+eu não paro (e aceitei essa)
+
