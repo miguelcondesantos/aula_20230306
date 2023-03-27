@@ -1,3 +1,6 @@
 testando
 testando parte 2
+<<<<<<< HEAD
 testando parte 3
+=======
+>>>>>>> origin/main
